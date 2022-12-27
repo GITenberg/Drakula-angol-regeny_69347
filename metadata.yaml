@@ -1,0 +1,38 @@
+_repo: Drakula-angol-regeny_69347
+_version: 0.0.1
+alternative_title: Dracula. Hungarian
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: https://en.wikipedia.org/wiki/Bram_Stoker
+description: ''
+gutenberg_issued: '2022-11-14'
+identifiers:
+  gutenberg: '69347'
+language: hu
+pgterms:marc905: 20221105095300stoker
+pgterms:marc906: '1898'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: 'Hungary: Budapesti Hirlap,1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Gothic fiction'
+- !lcsh 'Vampires -- Fiction'
+- !lcsh 'Dracula, Count (Fictitious character) -- Fiction'
+- !lcsh 'Transylvania (Romania) -- Fiction'
+- !lcsh 'Whitby (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Drakula: angol regény'
+url: http://www.gutenberg.org/ebooks/69347
